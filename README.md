@@ -292,6 +292,7 @@ Official integrations are maintained by companies building production ready MCP 
 
 ## Community Servers
 
+- **[Trustbase Lab](https://github.com/Trustbaselab/trustbaselab-mcp)** - Verified industry facts with byte-frozen source snapshots and dual hashes that anyone can recompute offline (rCB, carbon, telecom, health, compute, trade).
 A growing set of community-developed and maintained servers demonstrates various applications of MCP across different domains.
 
 - **[AllInOneMCP](https://github.com/particlefuture/MCPDiscovery) - MCP of MCPs. A central hub for MCP servers. Helps you discover available MCP servers and learn how to install and use them. REMOTE! Use the url [https://mcp.pfvc.io/mcp/](https://mcp.pfvc.io/mcp/) to add the server. **Remember the final backslash\*\*.
